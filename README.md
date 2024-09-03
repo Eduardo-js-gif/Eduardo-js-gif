@@ -4,16 +4,17 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Eduardo-js-gifshow_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-js-gif&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Eduardo-js-gif&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Eduardo-js-gif&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
 
 ### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](www.linkedin.com/in/eduardo-andrade-romão)
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
